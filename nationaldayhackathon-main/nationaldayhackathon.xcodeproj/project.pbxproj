@@ -1,0 +1,398 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1A2F79DA2A6B7B9E00459BA1 /* SingFlagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2F79D92A6B7B9E00459BA1 /* SingFlagView.swift */; };
+		6C48AD522A6B774F0004B35F /* nationaldayhackathonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C48AD512A6B774F0004B35F /* nationaldayhackathonApp.swift */; };
+		6C48AD542A6B774F0004B35F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C48AD532A6B774F0004B35F /* ContentView.swift */; };
+		6C48AD562A6B77500004B35F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C48AD552A6B77500004B35F /* Assets.xcassets */; };
+		6C48AD592A6B77500004B35F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C48AD582A6B77500004B35F /* Preview Assets.xcassets */; };
+		6C5A789E2A740644008D67F6 /* summaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5A789D2A740644008D67F6 /* summaryView.swift */; };
+		6C7826232A6B83240018F107 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C7826222A6B83240018F107 /* MapView.swift */; };
+		6C7826252A6B91540018F107 /* MerlionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C7826242A6B91540018F107 /* MerlionView.swift */; };
+		6C7826272A6BA9920018F107 /* gardensByTheBayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C7826262A6BA9920018F107 /* gardensByTheBayView.swift */; };
+		6C7826292A6BA99F0018F107 /* marinabaysands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C7826282A6BA99F0018F107 /* marinabaysands.swift */; };
+		6C78262B2A6BA9BE0018F107 /* esplanade.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C78262A2A6BA9BE0018F107 /* esplanade.swift */; };
+		6C78262D2A6BA9CF0018F107 /* floatingappleoffice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C78262C2A6BA9CF0018F107 /* floatingappleoffice.swift */; };
+		6C78262F2A6BA9DD0018F107 /* universalstudios.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C78262E2A6BA9DD0018F107 /* universalstudios.swift */; };
+		6C7826312A6BA9E90018F107 /* singaporeflyer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C7826302A6BA9E90018F107 /* singaporeflyer.swift */; };
+		6C7826332A6BA9F50018F107 /* sentosa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C7826322A6BA9F50018F107 /* sentosa.swift */; };
+		6C7826352A6BAA070018F107 /* singaporezoo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C7826342A6BAA070018F107 /* singaporezoo.swift */; };
+		6C7826372A6BAA150018F107 /* orchardroad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C7826362A6BAA150018F107 /* orchardroad.swift */; };
+		6CC5D2312A6C1C2800D44829 /* quizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CC5D2302A6C1C2700D44829 /* quizView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1A2F79D92A6B7B9E00459BA1 /* SingFlagView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingFlagView.swift; sourceTree = "<group>"; };
+		6C48AD4E2A6B774F0004B35F /* nationaldayhackathon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = nationaldayhackathon.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6C48AD512A6B774F0004B35F /* nationaldayhackathonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nationaldayhackathonApp.swift; sourceTree = "<group>"; };
+		6C48AD532A6B774F0004B35F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		6C48AD552A6B77500004B35F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6C48AD582A6B77500004B35F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6C5A789D2A740644008D67F6 /* summaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = summaryView.swift; sourceTree = "<group>"; };
+		6C7826222A6B83240018F107 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		6C7826242A6B91540018F107 /* MerlionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MerlionView.swift; sourceTree = "<group>"; };
+		6C7826262A6BA9920018F107 /* gardensByTheBayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gardensByTheBayView.swift; sourceTree = "<group>"; };
+		6C7826282A6BA99F0018F107 /* marinabaysands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = marinabaysands.swift; sourceTree = "<group>"; };
+		6C78262A2A6BA9BE0018F107 /* esplanade.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = esplanade.swift; sourceTree = "<group>"; };
+		6C78262C2A6BA9CF0018F107 /* floatingappleoffice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = floatingappleoffice.swift; sourceTree = "<group>"; };
+		6C78262E2A6BA9DD0018F107 /* universalstudios.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = universalstudios.swift; sourceTree = "<group>"; };
+		6C7826302A6BA9E90018F107 /* singaporeflyer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = singaporeflyer.swift; sourceTree = "<group>"; };
+		6C7826322A6BA9F50018F107 /* sentosa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sentosa.swift; sourceTree = "<group>"; };
+		6C7826342A6BAA070018F107 /* singaporezoo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = singaporezoo.swift; sourceTree = "<group>"; };
+		6C7826362A6BAA150018F107 /* orchardroad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = orchardroad.swift; sourceTree = "<group>"; };
+		6CC5D2302A6C1C2700D44829 /* quizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quizView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6C48AD4B2A6B774F0004B35F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6C48AD452A6B774E0004B35F = {
+			isa = PBXGroup;
+			children = (
+				6C48AD502A6B774F0004B35F /* nationaldayhackathon */,
+				6C48AD4F2A6B774F0004B35F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6C48AD4F2A6B774F0004B35F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6C48AD4E2A6B774F0004B35F /* nationaldayhackathon.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6C48AD502A6B774F0004B35F /* nationaldayhackathon */ = {
+			isa = PBXGroup;
+			children = (
+				6C5A789D2A740644008D67F6 /* summaryView.swift */,
+				6CC5D2302A6C1C2700D44829 /* quizView.swift */,
+				6C7826362A6BAA150018F107 /* orchardroad.swift */,
+				6C7826342A6BAA070018F107 /* singaporezoo.swift */,
+				6C7826322A6BA9F50018F107 /* sentosa.swift */,
+				6C7826302A6BA9E90018F107 /* singaporeflyer.swift */,
+				6C78262E2A6BA9DD0018F107 /* universalstudios.swift */,
+				6C78262C2A6BA9CF0018F107 /* floatingappleoffice.swift */,
+				6C78262A2A6BA9BE0018F107 /* esplanade.swift */,
+				6C7826282A6BA99F0018F107 /* marinabaysands.swift */,
+				6C7826262A6BA9920018F107 /* gardensByTheBayView.swift */,
+				6C7826222A6B83240018F107 /* MapView.swift */,
+				6C48AD512A6B774F0004B35F /* nationaldayhackathonApp.swift */,
+				6C7826242A6B91540018F107 /* MerlionView.swift */,
+				1A2F79D92A6B7B9E00459BA1 /* SingFlagView.swift */,
+				6C48AD532A6B774F0004B35F /* ContentView.swift */,
+				6C48AD552A6B77500004B35F /* Assets.xcassets */,
+				6C48AD572A6B77500004B35F /* Preview Content */,
+			);
+			path = nationaldayhackathon;
+			sourceTree = "<group>";
+		};
+		6C48AD572A6B77500004B35F /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				6C48AD582A6B77500004B35F /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6C48AD4D2A6B774F0004B35F /* nationaldayhackathon */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6C48AD5C2A6B77500004B35F /* Build configuration list for PBXNativeTarget "nationaldayhackathon" */;
+			buildPhases = (
+				6C48AD4A2A6B774F0004B35F /* Sources */,
+				6C48AD4B2A6B774F0004B35F /* Frameworks */,
+				6C48AD4C2A6B774F0004B35F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = nationaldayhackathon;
+			productName = nationaldayhackathon;
+			productReference = 6C48AD4E2A6B774F0004B35F /* nationaldayhackathon.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6C48AD462A6B774E0004B35F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					6C48AD4D2A6B774F0004B35F = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 6C48AD492A6B774E0004B35F /* Build configuration list for PBXProject "nationaldayhackathon" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6C48AD452A6B774E0004B35F;
+			productRefGroup = 6C48AD4F2A6B774F0004B35F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6C48AD4D2A6B774F0004B35F /* nationaldayhackathon */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6C48AD4C2A6B774F0004B35F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6C48AD592A6B77500004B35F /* Preview Assets.xcassets in Resources */,
+				6C48AD562A6B77500004B35F /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6C48AD4A2A6B774F0004B35F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6C48AD542A6B774F0004B35F /* ContentView.swift in Sources */,
+				6C7826352A6BAA070018F107 /* singaporezoo.swift in Sources */,
+				6C7826292A6BA99F0018F107 /* marinabaysands.swift in Sources */,
+				6C7826232A6B83240018F107 /* MapView.swift in Sources */,
+				6C7826252A6B91540018F107 /* MerlionView.swift in Sources */,
+				6C5A789E2A740644008D67F6 /* summaryView.swift in Sources */,
+				6C48AD522A6B774F0004B35F /* nationaldayhackathonApp.swift in Sources */,
+				6C7826332A6BA9F50018F107 /* sentosa.swift in Sources */,
+				6CC5D2312A6C1C2800D44829 /* quizView.swift in Sources */,
+				1A2F79DA2A6B7B9E00459BA1 /* SingFlagView.swift in Sources */,
+				6C7826272A6BA9920018F107 /* gardensByTheBayView.swift in Sources */,
+				6C78262D2A6BA9CF0018F107 /* floatingappleoffice.swift in Sources */,
+				6C78262B2A6BA9BE0018F107 /* esplanade.swift in Sources */,
+				6C7826372A6BAA150018F107 /* orchardroad.swift in Sources */,
+				6C7826312A6BA9E90018F107 /* singaporeflyer.swift in Sources */,
+				6C78262F2A6BA9DD0018F107 /* universalstudios.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		6C48AD5A2A6B77500004B35F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		6C48AD5B2A6B77500004B35F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6C48AD5D2A6B77500004B35F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"nationaldayhackathon/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = sg.tk.nationaldayhackathon;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6C48AD5E2A6B77500004B35F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"nationaldayhackathon/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = sg.tk.nationaldayhackathon;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6C48AD492A6B774E0004B35F /* Build configuration list for PBXProject "nationaldayhackathon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6C48AD5A2A6B77500004B35F /* Debug */,
+				6C48AD5B2A6B77500004B35F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6C48AD5C2A6B77500004B35F /* Build configuration list for PBXNativeTarget "nationaldayhackathon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6C48AD5D2A6B77500004B35F /* Debug */,
+				6C48AD5E2A6B77500004B35F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6C48AD462A6B774E0004B35F /* Project object */;
+}
